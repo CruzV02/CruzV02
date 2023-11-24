@@ -1,4 +1,4 @@
-<h1 align="center">, I'm José Rubén</h1>
+<h1 align="center">I'm José Rubén</h1>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
